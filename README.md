@@ -14,7 +14,8 @@ Este repositorio contiene nuestro desarrollo de la Práctica 2 de **Aprendizaje 
 ### 1. Entrenamiento del Modelo
 1. Descargar el archivo Grupo7_Practica2.ipynb.
 2. Abrir el archivo en [Google Colab](https://colab.research.google.com/).
-3. En el menú superior, hacer clic en **Entorno de ejecución > Ejecutar**
+3. Introducir semillas.csv y DBSCAN.csv a los archivos de Google Colab.
+4. En el menú superior, hacer clic en **Entorno de ejecución > Ejecutar**
 
 ---
 
